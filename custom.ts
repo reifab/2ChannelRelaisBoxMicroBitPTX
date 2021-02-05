@@ -28,8 +28,8 @@ enum MyEnumFunkgruppen {
 /**
  * Benutzerdefinierte Blöcke
  */
-//% weight=100 color=#0fbc11 icon=""
-namespace Steckdose {
+//% weight=100 color=#f54693c icon="\uf1e6"
+namespace Funksteckdosen {
     /**
      * Schaltet eine zweikanalige Funksteckdose, welche einen Micro:Bit enthält.
      * @param ch Kanal, welcher geschaltet werden soll
